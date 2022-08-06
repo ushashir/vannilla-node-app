@@ -1,0 +1,89 @@
+[
+ {
+  "organization": "work",
+  "createdAt": "Wed Aug 03 2022 09:02:24",
+  "updatedAt": "2022-08-03T10:37:14.832Z",
+  "products": [
+   "up"
+  ],
+  "marketValue": "70%",
+  "address": "jak",
+  "ceo": "cn",
+  "country": "Ng",
+  "id": 1,
+  "noOfEmployees": 123,
+  "employees": [
+   "james "
+  ]
+ },
+ {
+  "organization": "learn",
+  "createdAt": "Wed Aug 03 2022 09:04:23",
+  "updatedAt": "Wed Aug 03 2022 09:04:23",
+  "products": [
+   "up"
+  ],
+  "marketValue": "70%",
+  "address": "jak",
+  "ceo": "cn",
+  "country": "Ng",
+  "id": 2,
+  "noOfEmployees": 123,
+  "employees": [
+   "james "
+  ]
+ },
+ {
+  "organization": "learn",
+  "createdAt": "Wed Aug 03 2022 09:04:26",
+  "updatedAt": "Wed Aug 03 2022 09:04:26",
+  "products": [
+   "up"
+  ],
+  "marketValue": "70%",
+  "address": "jak",
+  "ceo": "cn",
+  "country": "Ng",
+  "id": 3,
+  "noOfEmployees": 123,
+  "employees": [
+   "james "
+  ]
+ },
+ {
+  "organization": "learn",
+  "createdAt": "Wed Aug 03 2022 09:04:28",
+  "updatedAt": "Wed Aug 03 2022 09:04:28",
+  "products": [
+   "up"
+  ],
+  "marketValue": "70%",
+  "address": "jak",
+  "ceo": "cn",
+  "country": "Ng",
+  "id": 4,
+  "noOfEmployees": 123,
+  "employees": [
+   "james "
+  ]
+ },
+ {
+  "organization": "Testing 101",
+  "createdAt": "Sat Aug 06 2022 22:41:27",
+  "updatedAt": "Sat Aug 06 2022 22:41:27",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "10%",
+  "address": "sangotedo",
+  "ceo": "test 101",
+  "country": "Taiwan",
+  "id": 5,
+  "noOfEmployees": 50,
+  "employees": [
+   "Bunmi",
+   "Oyebade"
+  ]
+ }
+]
